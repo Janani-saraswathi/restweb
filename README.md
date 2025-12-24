@@ -175,8 +175,10 @@ contact.html
 ```
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-12-23 173357" src="https://github.com/user-attachments/assets/d1c27f5a-1950-4c0e-ae4e-b33319e9b692" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-23 173413" src="https://github.com/user-attachments/assets/0f0f1be2-bff9-4950-aeae-77c73e9a73ac" />
+<img width="1920" height="1036" alt="S1" src="https://github.com/user-attachments/assets/b271456e-3410-41ea-8912-c03057cb036e" />
+<img width="1920" height="1036" alt="s2" src="https://github.com/user-attachments/assets/c08d07a8-8f05-412d-84ab-b07866906ea3" />
+
+
 
 
 ## RESULT:
